@@ -2,78 +2,91 @@
 
   .icon {
     /* display: block; */
-    background-image: url('/assets/images/sprites/sprite-cbdfe7ac.svg');
+    background-image: url('../../assets/images/sprites/sprite-cbdfe7ac.svg');
   }
 
   .no-svg .icon {
-    background-image: url('/assets/images/sprite/css/sprite-cbdfe7ac.png');
+    background-image: url('../../assets/images/sprite/css/sprite-cbdfe7ac.png');
   }
+  
+
 /* ICON FILE INFO */
   .icon--clear-view-escapes {
     width: 144.4px;
     height: 61.53px;
     background-position: 0 0;
   }
+
 /* ICON FILE INFO */
   .icon--comment {
     width: 66px;
     height: 66px;
     background-position: 99.71014492753623% 0;
   }
+
 /* ICON FILE INFO */
   .icon--facebook {
     width: 23.23px;
     height: 44.01px;
     background-position: 26.424310365536293% 45.92133741323979%;
   }
+
 /* ICON FILE INFO */
   .icon--fire {
     width: 58px;
     height: 66px;
     background-position: 0 99.58035714285714%;
   }
+
 /* ICON FILE INFO */
   .icon--globe {
     width: 66px;
     height: 66px;
     background-position: 28.019323671497585% 99.58035714285714%;
   }
+
 /* ICON FILE INFO */
   .icon--instagram {
     width: 44.01px;
     height: 44.01px;
     background-position: 63.059522249879905% 49.25740726919919%;
   }
+
 /* ICON FILE INFO */
   .icon--mail {
     width: 66px;
     height: 50px;
     background-position: 0 48.0703125%;
   }
+
 /* ICON FILE INFO */
   .icon--rain {
     width: 66px;
     height: 66px;
     background-position: 99.71014492753623% 58.92857142857143%;
   }
+
 /* ICON FILE INFO */
   .icon--star {
     width: 66px;
     height: 66px;
     background-position: 59.90338164251208% 99.58035714285714%;
   }
+
 /* ICON FILE INFO */
   .icon--twitter {
     width: 53.78px;
     height: 44.06px;
     background-position: 94.15199343125627% 98.55159026429745%;
   }
+
 /* ICON FILE INFO */
   .icon--wifi {
     width: 62px;
     height: 66px;
     background-position: 68.43601895734596% 0;
   }
+
 /* ICON FILE INFO */
   .icon--youtube {
     width: 36.75px;

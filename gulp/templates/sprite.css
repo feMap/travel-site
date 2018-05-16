@@ -4,14 +4,15 @@
   {{#first}}
   .icon {
     /* display: block; */
-    background-image: url('/assets/images/sprites/{{{sprite}}}');
+    background-image: url('../../assets/images/sprites/{{{sprite}}}');
   }
 
   .no-svg .icon {
-    background-image: url('/assets/images/sprite/css/{{#replaceSvgWithPng}}{{{sprite}}}{{/replaceSvgWithPng}}');
+    background-image: url('../../assets/images/sprite/css/{{#replaceSvgWithPng}}{{{sprite}}}{{/replaceSvgWithPng}}');
   }
-  {{/first}}
   
+  {{/first}}
+
 /* ICON FILE INFO */
   .icon--{{base}} {
     width: {{width.outer}}px;
